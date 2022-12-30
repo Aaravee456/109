@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    font-family: 'Rubik Gemstones', cursive;
+    background-color: pink;
+  }
+
+p {
+  text-shadow: 7px 7px 7px black;
+  font-family: 'Lucida Sans', cursive;
+  font-size: 30px;
+  color: yellow;
+}
+
+.main_div button {
+  font-family: 'Roboto';
+  margin-top: 100px;
+  width: 250px;
+  height: 70px;
+  font-size: 20px;
+}
+
+.copyright footer {
+  position: fixed;
+  background-color:brown;
+  bottom: 0;
+  width: 100%;
+  font-size: 18px;
+  color: yellow;
+  line-height: 20px;
+}
